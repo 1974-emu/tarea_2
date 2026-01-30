@@ -1,0 +1,12 @@
+# Entorno virtual
+tarea/
+
+# Cache de Python
+__pycache__/
+*.pyc
+
+# Datos (no necesarios en producción)
+data/
+
+# Archivos del sistema
+.DS_Store
